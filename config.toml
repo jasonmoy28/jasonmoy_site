@@ -2,6 +2,7 @@ baseURL = "https://jasonmoy28.github.io/"
 title   = "Jason Moy"
 languageCode = "en-us"
 theme = "hello-friend-ng"
+relativeURLs = "True"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
