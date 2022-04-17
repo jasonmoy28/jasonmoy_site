@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jason Moy</title>
+    <link>https://jasonmoy28.github.io/</link>
+    <description>Recent content on Jason Moy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by &lt;a href = &#34;https://gohugo.io/&#34; rel = &#34;noopener&#34;&gt; Hugo&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jasonmoy28.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An introduction to psycModel</title>
+      <link>https://jasonmoy28.github.io/post/psycmodel/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonmoy28.github.io/post/psycmodel/</guid>
+      <description>At its core, this package allows people to analyze their data with one simple function call. For example, when you are running a linear regression, you need to fit the model, check the goodness of fit (e.g., R2), check the model assumption, and plot the interaction (if the interaction is included). Without this package, you need several packages to do the above steps. Additionally, if you are an R beginner, you probably don’t know where to find all these R packages.</description>
+    </item>
+    
+    <item>
+      <title>Moy, J. H., Van Dyne, A., &amp; Hattrup, K. The Contingent Consequences of Job Insecurity: A Cross-National Investigation of the Effects of Job Insecurity, Employability, and Culture on Employee Outcomes. R&amp;R at Journal of Cross-Cultural Psychology.</title>
+      <link>https://jasonmoy28.github.io/research/moy-et-al-2022/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonmoy28.github.io/research/moy-et-al-2022/</guid>
+      <description>Full Text Request | R&amp;amp;R at Journal of Cross-Cultural Psychology
+Abstract: This study investigated the combined effects of national culture and perceptions of employability on relationships between job insecurity and work and non-work outcomes for individual employees. Data from 28,674 participants in 35 nations were obtained from the 2015 European Working Conditions Survey. Results showed that nation-level differences in individualism/collectivism (I/C), uncertainty avoidance (UA), and masculinity/femininity (M/F) accounted for variation in the degree to which perceptions of employability buffered the negative effects of job insecurity on job satisfaction, work engagement, and subjective well-being.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jasonmoy28.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonmoy28.github.io/about/</guid>
+      <description>I am a first-year PhD student in Organizational Behavior at University of Washington Michael G. Foster School of Business. Prior to joining Foster, I earned an MSc in Human Resources and Organizations at London School of Economics and a B.S. in Psychology at University of California San Diego. My research interest is primarily focuses on cultural-related OB. Specifically, I am interested in researching 1) cultural diversity and managing multicultural teams, 2) the benefits (or costs) of working, studying, living in multiple cultures, and 3) how culture shapes people&amp;rsquo;s behaviors.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jasonmoy28.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonmoy28.github.io/contact/</guid>
+      <description>Jason Moy
+Department of Management and Organization
+Michael G. Foster School of Business
+University of Washington
+Seattle, WA 98195
+Email: jmoy1@uw.edu</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://jasonmoy28.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jasonmoy28.github.io/cv/</guid>
+      <description>Please click the link to view my CV</description>
+    </item>
+    
+  </channel>
+</rss>
