@@ -128,10 +128,11 @@ disableHugoGeneratorInject = false
     theme = "#1b1c1d"
 
   [params.logo]
-    logoMark     = ">"
-    logoText     = "$ cd /home/"
+    logoMark     = " "
+    logoText     = " Jason Moy"
     logoHomeLink = "/"
     logoCursorColor = '#683eba'
+    logoCursorDisabled = true
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
