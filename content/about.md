@@ -8,7 +8,8 @@ aliases = ["about-us"]
 +++
 
 <img src="/jason_moy.png"  width = '250px' class = 'img'/>
-I am a incoming first-year PhD student in Organizational Behavior at University of Washington Michael G. Foster School of Business. Prior to joining Foster, I earned an MSc in Human Resources and Organizations at London School of Economics and a B.S. in Psychology at University of California San Diego.
+
+I am a incoming first-year PhD student in Organizational Behavior at University of Washington Michael G. Foster School of Business. Prior to joining Foster, I earned an MSc in Human Resources and Organizations at London School of Economics (LSE) and a B.S. in Psychology at University of California San Diego (UCSD).
 
 My research interest is primarily focuses on cultural-related OB. Specifically, I am interested in researching 1) cultural diversity and managing multicultural teams, 2) the benefits (or costs) of working, studying, living in multiple cultures, and 3) how culture shapes people's behaviors. Additionally, I am also interested in researching the impact of remote working on employees' well-being and behaviors.
 
