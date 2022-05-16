@@ -55,13 +55,13 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Jason Moy Site"
+  description = "Jason Moy is a PhD student in Organizational Behavior at University of Washington Michael G. Foster School of Business "
   keywords = ""
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "PhD Student in Organizational Behavior"
+  homeSubtitle = ""
 
   # Set a background for the homepage
   # backgroundImage = ""
