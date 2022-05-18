@@ -214,8 +214,8 @@ disableHugoGeneratorInject = false
   url        =   "cv/"
   weight = 3
   [[menu.main]]
-  identifier =   "r"
-  name       =   "R"
+  identifier =   "post"
+  name       =   "Posts"
   url        =   "post/"
   weight = 3
 
