@@ -9,9 +9,9 @@ date = "2022/04/16"
 
 ## Manuscripts in Revision/Under Review
 
-1.  Moy, J. H., Van Dyne, A., & Hattrup, K. The Contingent Consequences of Job Insecurity: A Cross-
+1.  Moy, J. H., Van Dyne, A., & Hattrup, K (in press). The Contingent Consequences of Job Insecurity: A Cross-
     National Investigation of the Effects of Job Insecurity, Employability, and Culture on Employee
-    Outcomes. _1st round of R&R at Journal of Cross-Cultural Psychology._
+    Outcomes. _Journal of Cross-Cultural Psychology_.
 
 ## Selected Works-in-Progress
 
