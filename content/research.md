@@ -4,7 +4,7 @@ title = "Research"
 date = "2022/04/16"
 [ author ]
   name = "Jason Moy"
-
+description = "PhD student in Organizational Behavior at U of Washington Foster School of Business "
 +++
 
 ## Manuscripts in Revision/Under Review

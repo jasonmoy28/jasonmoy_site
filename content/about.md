@@ -4,7 +4,7 @@ date = "2022/04/16"
 aliases = ["about-us"]
 [ author ]
   name = "Jason Moy"
-
+description = "PhD student in Organizational Behavior at U of Washington Foster School of Business "
 +++
 
 <img src="/jason_moy.png"  width = '250px' class = 'img'/>
