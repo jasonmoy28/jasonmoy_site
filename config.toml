@@ -55,13 +55,13 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "PhD student in Organizational Behavior at U of Washington Foster School of Business"
+  description = "PhD student in Organizational Behavior at UW Foster School of Business"
   keywords = ""
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "PhD student in Organizational Behavior at University of Washington Foster School of Business"
+  homeSubtitle = "Doctoral Student at UW Foster School of Business"
 
   # Set a background for the homepage
   # backgroundImage = ""

@@ -6,4 +6,4 @@ date = "2022/04/17"
 description = "PhD student in Organizational Behavior at U of Washington Foster School of Business "
 +++
 
-Please click the link to view my <a href = 'https://jasonmoy28.github.io/jasonmoy_site//Moy_J_Academic_CV.pdf' target = '_blank' rel = 'noopener'> CV </a>
+Please click the link to view my <a href = 'https://jasonmoy28.github.io/jasonmoy_site//Moy_J_CV.pdf' target = '_blank' rel = 'noopener'> CV </a>
