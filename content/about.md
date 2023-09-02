@@ -7,7 +7,7 @@ aliases = ["about-us"]
 description = "PhD student in Organizational Behavior at UW Foster School of Business "
 +++
 
-<!-- <img src="/jason_moy.png"  width = '250px' class = 'img'/> -->
+<img src="/jason_moy.jpg"  width = '200px' class = 'img'/>
 
 I am a second-year PhD student in Organizational Behavior at Foster School of Business, University of Washington. Prior to joining Foster, I earned an MSc in Human Resources and Organizations at London School of Economics (LSE) and a B.S. in Psychology at University of California San Diego (UCSD).
 
