@@ -202,11 +202,11 @@ disableHugoGeneratorInject = false
     url        = "about/"
     weight = 1
     
-  [[menu.main]]
-    identifier = "research"
-    name       = "Research"
-    url        = "research/"
-    weight = 2
+  # [[menu.main]]
+  #   identifier = "research"
+  #   name       = "Research"
+  #   url        = "research/"
+  #   weight = 2
 
   [[menu.main]]
   identifier =   "cv"
