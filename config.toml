@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Doctoral Student at UW Foster School of Business"
+  homeSubtitle = "OB PhD Student at Foster School of Business"
 
   # Set a background for the homepage
   # backgroundImage = ""
@@ -170,7 +170,7 @@ disableHugoGeneratorInject = false
     
   [[params.social]]
     name = "email"
-    url  = "mailto:jasonmoy28@gmail.com"
+    url  = "mailto:jmoy1@uw.edu"
 
   [[params.social]]
     name = "linkedin"
@@ -188,7 +188,7 @@ disableHugoGeneratorInject = false
   [languages.en]
     subtitle  = ""
     weight    = 1
-    copyright = 'Powered by <a href = "https://gohugo.io/" rel = "noopener"> Hugo</a>'
+    copyright = '<a href = "mailto:jmoy1@uw.edu" target = "_blank" rel = "noopener"> jmoy1@uw.edu </a>'
 
   [languages.fr]
     subtitle  = ""

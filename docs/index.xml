@@ -6,7 +6,7 @@
     <description>Recent content on Jason Moy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Powered by &lt;a href = &#34;https://gohugo.io/&#34; rel = &#34;noopener&#34;&gt; Hugo&lt;/a&gt;</copyright>
+    <copyright>&lt;a href = &#34;mailto:jmoy1@uw.edu&#34; target = &#34;_blank&#34; rel = &#34;noopener&#34;&gt; jmoy1@uw.edu &lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://jasonmoy.us/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An introduction to psycModel</title>
@@ -23,8 +23,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jasonmoy.us/about/</guid>
-      <description>I am a second-year PhD student in Organizational Behavior at Foster School of Business, University of Washington. Prior to joining Foster, I earned an MSc in Human Resources and Organizations at London School of Economics (LSE) and a B.S. in Psychology at University of California San Diego (UCSD).
-My research interest primarily focuses on how societal and cultural norms as well as multicultural experiences shape individuals&amp;rsquo; behaviors. Beyond my research, I have also created an R package (pscyModel) that aim to make statistical analysis in R simpler.</description>
+      <description>Hi! I am a second-year PhD student in Organizational Behavior at the Foster School of Business, University of Washington. My research interest primarily centers on how societal and cultural norms shape individuals&amp;rsquo; behaviors and the work experiences of underprivileged individuals. Beyond my research, I have also developed an R package (pscyModel) aimed at simplifying statistical analysis in R. It is currently distributed through CRAN, and the development version can be accessed on my GitHub.</description>
     </item>
     
     <item>

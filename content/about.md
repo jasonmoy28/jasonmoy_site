@@ -9,9 +9,9 @@ description = "PhD student in Organizational Behavior at UW Foster School of Bus
 
 <img src="/jason_moy.jpg"  width = '200px' class = 'img'/>
 
-I am a second-year PhD student in Organizational Behavior at Foster School of Business, University of Washington. Prior to joining Foster, I earned an MSc in Human Resources and Organizations at London School of Economics (LSE) and a B.S. in Psychology at University of California San Diego (UCSD).
+Hi! I am a second-year PhD student in Organizational Behavior at the Foster School of Business, University of Washington. My research interest primarily centers on how societal and cultural norms shape individuals' behaviors and the work experiences of underprivileged individuals. Beyond my research, I have also developed an R package ([pscyModel](https://jasonmoy28.github.io/psycModel/)) aimed at simplifying statistical analysis in R. It is currently distributed through [CRAN](https://jasonmoy28.github.io/psycModel/), and the development version can be accessed on my [GitHub](https://github.com/jasonmoy28/psycModel).
 
-My research interest primarily focuses on how societal and cultural norms as well as multicultural experiences shape individuals' behaviors. Beyond my research, I have also created an R package ([pscyModel](https://jasonmoy28.github.io/psycModel/)) that aim to make statistical analysis in R simpler. It is currently distributed through [CRAN](https://jasonmoy28.github.io/psycModel/) and the dev version is available through my [GitHub](https://github.com/jasonmoy28/psycModel). For more details, please click [here](https://jasonmoy28.github.io/psycModel/).
+Before joining Foster, I earned an MSc in Human Resources and Organizations from the London School of Economics (LSE) and a B.S. in Psychology from the University of California San Diego (UCSD).
 
 <style>
   @media screen and (min-width: 450px){
